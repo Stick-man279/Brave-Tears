@@ -1,0 +1,13 @@
+{
+  "itemGroup.bravetears": "Example Mod Tab",
+  "block.bravetears.example_block": "Example Block",
+  "item.bravetears.example_item": "Example Item",
+
+  "bravetears.configuration.title": "Brave-Tears Configs",
+  "bravetears.configuration.section.bravetears.common.toml": "Brave-Tears Configs",
+  "bravetears.configuration.section.bravetears.common.toml.title": "Brave-Tears Configs",
+  "bravetears.configuration.items": "Item List",
+  "bravetears.configuration.logDirtBlock": "Log Dirt Block",
+  "bravetears.configuration.magicNumberIntroduction": "Magic Number Text",
+  "bravetears.configuration.magicNumber": "Magic Number"
+}
